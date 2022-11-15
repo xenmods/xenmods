@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xenmods&label=Profile%20views&color=0e75b6&style=flat" alt="xenmods" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xenmods" alt="xenmods" /></a> </p>
-
 - I’m currently working on [Roronoa Zoro Robot](https://t.me/roronoa_zoro_robot)
 
 - I’m currently learning **Javascript**
 
-- Ask me about **Python**
+- Website [https://xen.is-a.dev/](https://xen.is-a.dev/)
 
-- 📫 How to reach me **ilumomin04@gmail.com**
+- Ask me about **Python**
 
 - Fun fact **Most of my projects are private.**
 
