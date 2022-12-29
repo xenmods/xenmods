@@ -7,7 +7,7 @@
 
 - I’m currently learning **Javascript**
 
-- Website [https://xen.is-a.dev/](https://xen.is-a.dev/)
+- Website [https://xenmods.me/](https://xenmods.me/)
 
 - Ask me about **Python**
 
